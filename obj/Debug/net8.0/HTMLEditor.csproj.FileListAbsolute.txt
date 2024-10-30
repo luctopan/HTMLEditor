@@ -1,0 +1,15 @@
+C:\dev\HTMLEditor\bin\Debug\net8.0\HTMLEditor.exe
+C:\dev\HTMLEditor\bin\Debug\net8.0\HTMLEditor.deps.json
+C:\dev\HTMLEditor\bin\Debug\net8.0\HTMLEditor.runtimeconfig.json
+C:\dev\HTMLEditor\bin\Debug\net8.0\HTMLEditor.dll
+C:\dev\HTMLEditor\bin\Debug\net8.0\HTMLEditor.pdb
+C:\dev\HTMLEditor\obj\Debug\net8.0\HTMLEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\HTMLEditor\obj\Debug\net8.0\HTMLEditor.AssemblyInfoInputs.cache
+C:\dev\HTMLEditor\obj\Debug\net8.0\HTMLEditor.AssemblyInfo.cs
+C:\dev\HTMLEditor\obj\Debug\net8.0\HTMLEditor.csproj.CoreCompileInputs.cache
+C:\dev\HTMLEditor\obj\Debug\net8.0\HTMLEditor.sourcelink.json
+C:\dev\HTMLEditor\obj\Debug\net8.0\HTMLEditor.dll
+C:\dev\HTMLEditor\obj\Debug\net8.0\refint\HTMLEditor.dll
+C:\dev\HTMLEditor\obj\Debug\net8.0\HTMLEditor.pdb
+C:\dev\HTMLEditor\obj\Debug\net8.0\HTMLEditor.genruntimeconfig.cache
+C:\dev\HTMLEditor\obj\Debug\net8.0\ref\HTMLEditor.dll
